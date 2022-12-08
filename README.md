@@ -5,6 +5,7 @@ also an experiment, whether Github Issues can 'compete' with subreddits
 
 ( https://www.reddit.com/r/browserPOSIX/ )
 
-... about running Linux *in* a web browser, and also, more generally, about any POSIX, Unix-like software that is ported to web browsers, or emulated in web browsers.
 
-Emscripten, WASIenv;  V86, Jor1k, Jslinux.
+... about running Linux *in* a web browser, and also, more generally, about any POSIX, Unix-like software that can be ported to web browsers, or is  emulated in web browsers.
+
+Emscripten, Wasmer, CoWasm, Pyodide; WebVM, V86, Jor1k, Jslinux.
