@@ -1,7 +1,7 @@
 # browserPOSIX-discussion
 
 
-also an experiment, whether Github Issues can 'compete' with subreddits
+(an experiment, whether Github ***issues*** can compete with subreddits)
 
 ( https://www.reddit.com/r/browserPOSIX/ )
 
